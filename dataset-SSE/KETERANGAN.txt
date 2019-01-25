@@ -1,0 +1,98 @@
+Bantumurung-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -4.9729   Longitude 119.6847 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 199.61 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+Camba-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -4.914   Longitude 119.841 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 199.61 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+
+Cenrana-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -5.0308   Longitude 119.8121 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 232.68 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+Lau-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -4.9602   Longitude 119.5688 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 199.61 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+Simbang-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -5.0463   Longitude 119.6847 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 232.68 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+Tanralili-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -5.1049   Longitude 119.6151 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 232.68 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
+
+TompuBulu-ALL
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2000 through 12/27/2018 
+Location: Latitude  -5.1433   Longitude 119.7658 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 232.68 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
